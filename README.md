@@ -39,9 +39,13 @@ Voici le mail que vous recevez à votre arrivée le premier jour.
 
 L'en-tête du site :
   ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette111.png)
+  
 Nos services :
   ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette210.png)
+  
 Nos projets :
   ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette32.png)
+  
 Formulaire de contact :
   ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette42.png)
+  
