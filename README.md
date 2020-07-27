@@ -2,7 +2,7 @@
 
 <h2 align="center">Projet 1 - OpenClassrooms - Intégrez la maquette du site d'une agence web</h2>
 
-MISSION :
+### MISSION :
 
 Vous venez d'être embauché(e) par une agence Web, la WebAgency, qui réalise des sites web pour différents clients. Sophie, la directrice technique de l’agence vous informe que le site actuel est vieillissant et que son équipe a peu de temps pour travailler dessus.
 
@@ -10,9 +10,9 @@ Elle vous propose donc, pour votre première mission, de vous occuper de la refo
 
 Voici le mail que vous recevez à votre arrivée le premier jour.
 
-> De : Sophie
+> **De : Sophie**
 > 
-> À : moi
+> **À : moi**
 > 
 > Bonjour et bienvenue à la WebAgency. 
 > 
@@ -22,12 +22,12 @@ Voici le mail que vous recevez à votre arrivée le premier jour.
 > 
 > Voici quelques informations dont tu auras besoin pour te lancer :
 > 
->       * le site doit tenir sur une page avec un menu qui reste visible, en haut de la page, même lorsque l'on se déplace dans la page ;
->       * les différentes sections attendues sont :
->         * un premier écran d'accueil de bienvenue, très visuel :
->             - la liste des services offerts par l'agence ;
->             - des exemples de projets déjà réalisés :
->             - une carte avec un formulaire de contact (on ne vous demande pas de faire marcher le formulaire, juste de l'afficher).
+> * le site doit tenir sur une page avec un menu qui reste visible, en haut de la page, même lorsque l'on se déplace dans la page ;
+> * les différentes sections attendues sont :
+>   * un premier écran d'accueil de bienvenue, très visuel :
+>     - la liste des services offerts par l'agence ;
+>     - des exemples de projets déjà réalisés :
+>     - une carte avec un formulaire de contact (on ne vous demande pas de faire marcher le formulaire, juste de l'afficher).
 > 
 > Le site devra être réalisé en HTML et CSS (sans framework tel que Bootstrap).
 > 
@@ -37,15 +37,15 @@ Voici le mail que vous recevez à votre arrivée le premier jour.
 > 
 > Voici les différentes sections :
 > 
-> L'en-tête du site :
 >   ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette111.png)
->   
-> Nos services :
+>    <p align="center">L'en-tête du site</p>
+>
 >   ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette210.png)
->   
-> Nos projets :
+>   <p align="center">Nos services</p>
+> 
 >   ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette32.png)
->   
-> Formulaire de contact :
+>   <p align="center">Nos projets</p>
+>
 >   ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette42.png)
+>   <p align="center">Formulaire de contact</p>
   
