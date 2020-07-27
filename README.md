@@ -40,11 +40,14 @@ Voici le mail que vous recevez à votre arrivée le premier jour.
 >   ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette111.png)
 >    <p align="center">L'en-tête du site</p>
 >
+>
 >   ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette210.png)
 >   <p align="center">Nos services</p>
 > 
+>
 >   ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette32.png)
 >   <p align="center">Nos projets</p>
+>
 >
 >   ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette42.png)
 >   <p align="center">Formulaire de contact</p>
