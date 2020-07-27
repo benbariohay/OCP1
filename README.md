@@ -25,9 +25,9 @@ Voici le mail que vous recevez à votre arrivée le premier jour.
       - le site doit tenir sur une page avec un menu qui reste visible, en haut de la page, même lorsque l'on se déplace dans la page ;
       - les différentes sections attendues sont :
         - un premier écran d'accueil de bienvenue, très visuel :
-        - la liste des services offerts par l'agence ;
-        - des exemples de projets déjà réalisés :
-        - une carte avec un formulaire de contact (on ne vous demande pas de faire marcher le formulaire, juste de l'afficher).
+            - la liste des services offerts par l'agence ;
+            - des exemples de projets déjà réalisés :
+            - une carte avec un formulaire de contact (on ne vous demande pas de faire marcher le formulaire, juste de l'afficher).
 
     Le site devra être réalisé en HTML et CSS (sans framework tel que Bootstrap).
 
@@ -37,4 +37,11 @@ Voici le mail que vous recevez à votre arrivée le premier jour.
 
     Voici les différentes sections :
 
-    ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette111.png)
+L'en-tête du site :
+  ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette111.png)
+Nos services :
+  ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette210.png)
+Nos projets :
+  ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette32.png)
+Formulaire de contact :
+  ![alt text](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/maquette42.png)
